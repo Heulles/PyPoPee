@@ -1,5 +1,4 @@
-# Python
-Projeto PyPoPee
+# Projeto PyPoPee
 
 Python + Posgres + Peewee
 
