@@ -7,7 +7,7 @@ import json
 import unidecode
 #unidecode retira caracteres
 #api_nome= input("Coloque o id da API : ")
-api_nome= "a8797bd0-3af9-437e-997b-d4a813121f46"
+api_nome= "chave privada"
 
 
 
